@@ -31,8 +31,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarkPhoenix1512&layout=compact&theme=radical)  
 
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=DarkPhoenix1512&theme=react-dark&hide_border=true)
-
 ---
 
 ## 🚀 Über mich
@@ -48,8 +46,7 @@
 
 - 💬 Discord: `Ringo#0107`  
 - 🌐 GitHub: [DarkPhoenix1512](https://github.com/DarkPhoenix1512)  
-- 📩 Optional: E-Mail (falls du teilen willst)
-
+  
 ---
 
 > „Coding is not just writing code – it’s designing experiences that people love.“ 🚀
