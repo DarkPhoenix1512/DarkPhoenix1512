@@ -1,7 +1,7 @@
 # Hey 👋, ich bin DarkPhoenix1512 (aka Ringo#0107)  
 
 🎯 **Hobby-Entwickler & App-Konzept-Designer**  
-💡 Ich entwickle Apps, erstelle Konzepte und überlege, wie man sie langfristig interessanter und benutzerfreundlicher gestalten kann.  
+💡 Ich entwickle Apps, konzipiere Ideen und überlege, wie man sie langfristig interessanter und benutzerfreundlicher gestalten kann.  
 
 ---
 
@@ -9,18 +9,19 @@
 
 | Technologie | Level |
 |------------|-------|
-| Dart / Flutter | ![70%](https://progress-bar.dev/70/) |
-| JavaScript / Node.js | ![50%](https://progress-bar.dev/50/) |
-| Git / GitHub | ![80%](https://progress-bar.dev/80/) |
+| Dart / Flutter | ![Dart](https://img.shields.io/badge/Dart-70%25-blue) |
+| Flutter | ![Flutter](https://img.shields.io/badge/Flutter-70%25-0091EA) |
+| JavaScript / Node.js | ![JS](https://img.shields.io/badge/JS-50%25-F7DF1E) |
+| Git / GitHub | ![Git](https://img.shields.io/badge/Git-80%25-F05032) |
 
-> Ich habe viele kleine Projekte entwickelt – die meisten nie veröffentlicht, aber jedes Projekt hat mich weitergebracht.  
+> Ich habe viele kleine Projekte entwickelt – die meisten nie veröffentlicht, aber jedes hat mich weitergebracht.  
 
 ---
 
 ## 📱 Projekte & Erfahrung
 
 - Private App zur **Verwaltung meines Minecraft-Servers**  
-- Diverse kleine Apps & Tools, Experimentierprojekte  
+- Diverse kleine Apps & Tools als Experimentierprojekte  
 - Fokus auf **UX, Benutzerfreundlichkeit und langfristige Motivation der Nutzer**  
 
 ---
@@ -35,7 +36,7 @@
 
 - Leidenschaftlich für **Flutter & Dart**  
 - Entwickle nicht nur Apps, sondern auch **Ideen & Konzepte**  
-- Experimentiere mit neuen Features und UX-Tricks  
+- Experimentiere ständig mit neuen Features und UX-Tricks  
 
 ---
 
